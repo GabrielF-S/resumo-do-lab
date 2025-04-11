@@ -1,4 +1,4 @@
-# Desafio de AzureProjeto Microsoft
+# Desafio de Projeto Microsoft Azure
 ## Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
 
 ## Computação e Serviço de Rede
